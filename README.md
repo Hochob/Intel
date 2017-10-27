@@ -1,2 +1,2 @@
-# Intel
+# IntelCorporation
 Intel Corporation
